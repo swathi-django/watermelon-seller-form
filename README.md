@@ -37,6 +37,6 @@ Create an admin user:
 python src/manage.py createsuperuser
 Start the developement server
 python src/manage.py runserver
-Page explanation
-http://localhost:8000/ Multi-step for for seller giftcard survey
-http://localhost:8000/results Display  giftcard info
+pages for dispalying data:
+http://127.0.0.1:8000/ Multi-step for for seller giftcard survey
+http://127.0.0.1:8000/results Display  giftcard info
